@@ -1,2 +1,2 @@
-# VK--Core-ML--single-link-clustering
+# Single-link-clustering
 This repository include the solution of the single-link clustering algorythm. 
